@@ -9864,6 +9864,7 @@ Transform:
   - {fileID: 948054425}
   - {fileID: 312703851}
   - {fileID: 679666879}
+  - {fileID: 1414227400}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &832575517
@@ -24284,7 +24285,7 @@ GameObject:
   - component: {fileID: 1414227397}
   - component: {fileID: 1414227396}
   m_Layer: 0
-  m_Name: we
+  m_Name: PyramidRoof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28907,12 +28908,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1414227395}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.06, y: -6.98, z: -9.83}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.916007, y: 2.71458, z: -13.899733}
   m_LocalScale: {x: 4, y: 3.32, z: 11.12}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 786748551}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!850595691 &1574967176
 LightingSettings:
@@ -34750,4 +34751,3 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 786748551}
-  - {fileID: 1414227400}
